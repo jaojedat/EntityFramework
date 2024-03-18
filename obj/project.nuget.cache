@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pLDjXFEBs5IdVwjti2eWewL5P/pP+FFIJCchG9vXZggvGVWVPewyIWS3A76X4K8qq47C8blK551hVzWz8xfgQg==",
+  "dgSpecHash": "EN9ITv0fxffS0k3Vl7sJx1LAb++20qcs5eAV5QpG/wQvw9Om2tN0DcL5jdvkzo1L3i+hRohyVENrZmgZwYLZew==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jose_.DESKTOP-QE9VM2C\\Desktop\\EF\\EntityFramework\\EntityFramework.csproj",
+  "projectFilePath": "C:\\Users\\jose_.DESKTOP-QE9VM2C\\Desktop\\EF\\EntityFramework\\EntityFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jose_.DESKTOP-QE9VM2C\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\jose_.DESKTOP-QE9VM2C\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

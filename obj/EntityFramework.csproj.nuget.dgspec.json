@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jose_.DESKTOP-QE9VM2C\\Desktop\\EF\\EntityFramework\\EntityFramework.csproj": {}
+    "C:\\Users\\jose_.DESKTOP-QE9VM2C\\Desktop\\EF\\EntityFramework\\EntityFramework.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jose_.DESKTOP-QE9VM2C\\Desktop\\EF\\EntityFramework\\EntityFramework.csproj": {
+    "C:\\Users\\jose_.DESKTOP-QE9VM2C\\Desktop\\EF\\EntityFramework\\EntityFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jose_.DESKTOP-QE9VM2C\\Desktop\\EF\\EntityFramework\\EntityFramework.csproj",
+        "projectUniqueName": "C:\\Users\\jose_.DESKTOP-QE9VM2C\\Desktop\\EF\\EntityFramework\\EntityFramework.csproj",
         "projectName": "EntityFramework",
-        "projectPath": "c:\\Users\\jose_.DESKTOP-QE9VM2C\\Desktop\\EF\\EntityFramework\\EntityFramework.csproj",
+        "projectPath": "C:\\Users\\jose_.DESKTOP-QE9VM2C\\Desktop\\EF\\EntityFramework\\EntityFramework.csproj",
         "packagesPath": "C:\\Users\\jose_.DESKTOP-QE9VM2C\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jose_.DESKTOP-QE9VM2C\\Desktop\\EF\\EntityFramework\\obj\\",
+        "outputPath": "C:\\Users\\jose_.DESKTOP-QE9VM2C\\Desktop\\EF\\EntityFramework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jose_.DESKTOP-QE9VM2C\\AppData\\Roaming\\NuGet\\NuGet.Config",
