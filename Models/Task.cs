@@ -8,11 +8,9 @@ namespace EntityFramework.Models
 {
     public class Task
     {   
-        [Key]
+
         public Guid TaskId {get; set;}
-        [ForeignKey("CategoryId")]
         public Guid CategoryId {get; set;}
-        [MaxLength(150)]
         public string Title {get; set;}
         public string Descripcion {get; set;}
         public Priority TaskPriority {get; set;}
