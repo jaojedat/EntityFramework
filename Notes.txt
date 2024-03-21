@@ -1,3 +1,13 @@
+/* ENTITY FRAMEWORK */ 
+Entity Framework Core: Es ORM Object Relational Mapper 
+Utiliza ADO.NET para facilitar la conexion a bases de datos 
+Entity Framework es un marco de trabajo de mapeo objeto-relacional (ORM) para Microsoft .NET que permite a los desarrolladores 
+trabajar con bases de datos relacionales mediante objetos y entidades en lugar de tablas y columnas.
+
+ORM Es una herramienta que realiza un mapeo que nos permite transformar
+los objetos de la base de datos como tablas y esquemas a clases con atributos en código de programación
+para poder manipular la información de una forma más fácil sin requerir de SQL.
+
 /* MIGRACIONES */
 Es una funcionalidad de EF que nos permite guardar de manera incremental los cambios realizados en la 
 base de datos. Nos permite construir un versionamiento de la base de datos.
@@ -5,9 +15,8 @@ base de datos. Nos permite construir un versionamiento de la base de datos.
 *Comandos basicos
 dotnet tool install --global dotnet-ef --> instala herramienta de EF
 dotnet add package Microsoft.EntityFrameworkCore.Design --version 8.0.3 --> Instala Ef Design
-dotnet ef migrations add InitialCreate
-dotnet ef migrations add MyMigration
-dotnet ef database update
+dotnet ef migrations add InitialCreate --> Se utiliza para crear en primer lugar la migración o ir agregando nuevos cambios
+dotnet ef database update --> Se utiliza para actualizar cualquier cambio realizado en la migración
 
 *Documentación
 Migrations: https://learn.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli
